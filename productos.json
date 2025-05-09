@@ -1,0 +1,24 @@
+[
+  {
+    "nombre": "PEUBA CAMPERA",
+    "precio": 15.75,
+    "talles": [
+      "S",
+      "S",
+      "XL",
+      "XL"
+    ],
+    "colores": [
+      "#000000",
+      "#ff0000",
+      "#a93d0f"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/principal_1746819552553.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_1.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_2.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_3.webp"
+    ]
+  }
+]
