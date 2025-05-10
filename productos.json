@@ -20,5 +20,28 @@
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_2.webp",
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746819552553_3.webp"
     ]
+  },
+  {
+    "nombre": "CAMPERA DAMA CUERO AS929A",
+    "precio": 17.54,
+    "talles": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "#000000"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/principal_1746872419575.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_1.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_2.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_3.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_4.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_5.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_6.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_7.webp"
+    ]
   }
 ]
