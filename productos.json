@@ -67,5 +67,27 @@
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_2.webp",
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_3.webp"
     ]
+  },
+  {
+    "nombre": "SWETER DAMA S4KJG",
+    "precio": 10.45,
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "#ff0000",
+      "#240000",
+      "#ff0000"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/principal_1747224651108.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_1.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_2.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_3.webp"
+    ]
   }
 ]
