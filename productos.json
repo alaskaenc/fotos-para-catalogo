@@ -43,5 +43,29 @@
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_6.webp",
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1746872419575_7.webp"
     ]
+  },
+  {
+    "nombre": "CAMPERA DAMA 819XEW",
+    "precio": 12.75,
+    "talles": [
+      "S",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "XL"
+    ],
+    "colores": [
+      "#000000",
+      "#ff0000",
+      "#0061e0"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/principal_1747224559515.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_1.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_2.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224559515_3.webp"
+    ]
   }
 ]
