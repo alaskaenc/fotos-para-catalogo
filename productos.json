@@ -89,5 +89,27 @@
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_2.webp",
       "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/images/muestra_1747224651108_3.webp"
     ]
+  },
+  {
+    "nombre": "CAMPERA HOMBRE 00214",
+    "precio": 11.75,
+    "talles": [
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "#000000",
+      "#ff0000",
+      "#fff700",
+      "#0008ff"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/principal_1747933561871.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1747933561871_0.webp"
+    ],
+    "descripcion": "",
+    "categoria": "Camperas",
+    "id": "prod-1747933564867-622"
   }
 ]
