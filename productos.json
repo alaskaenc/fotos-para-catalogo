@@ -91,28 +91,6 @@
     ]
   },
   {
-    "nombre": "CAMPERA HOMBRE 00214",
-    "precio": 11.75,
-    "talles": [
-      "M",
-      "L",
-      "XL"
-    ],
-    "colores": [
-      "#000000",
-      "#ff0000",
-      "#fff700",
-      "#0008ff"
-    ],
-    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/principal_1747933561871.webp",
-    "muestras": [
-      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1747933561871_0.webp"
-    ],
-    "descripcion": "",
-    "categoria": "Camperas",
-    "id": "prod-1747933564867-622"
-  },
-  {
     "nombre": "SWEATER DAMA 254 PRUEBA",
     "precio": 10.24,
     "talles": [
