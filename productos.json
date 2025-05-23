@@ -135,5 +135,28 @@
     "descripcion": "Sweater para dama estilo NY",
     "categoria": "Sweaters",
     "id": "prod-1748014245095-485"
+  },
+  {
+    "nombre": "CONJUNTO MEN 2547",
+    "precio": 54.52,
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "#FA0000",
+      "#007BFF",
+      "#000000"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/principal_1748020871333.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1748020871333_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1748020871333_1.webp"
+    ],
+    "descripcion": "",
+    "categoria": "Conjuntos",
+    "id": "prod-1748020875297-80"
   }
 ]
