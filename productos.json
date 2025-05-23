@@ -111,5 +111,29 @@
     "descripcion": "",
     "categoria": "Camperas",
     "id": "prod-1747933564867-622"
+  },
+  {
+    "nombre": "SWEATER DAMA 254 PRUEBA",
+    "precio": 10.24,
+    "talles": [
+      "S",
+      "M",
+      "L",
+      "XL"
+    ],
+    "colores": [
+      "#ff0000",
+      "#00990a",
+      "#ff8c2e"
+    ],
+    "imagenPrincipal": "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/principal_1748014239198.webp",
+    "muestras": [
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1748014239198_0.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1748014239198_1.webp",
+      "https://raw.githubusercontent.com/alaskaenc/fotos-para-catalogo/main/imagenes/muestra_1748014239198_2.webp"
+    ],
+    "descripcion": "Sweater para dama estilo NY",
+    "categoria": "Sweaters",
+    "id": "prod-1748014245095-485"
   }
 ]
